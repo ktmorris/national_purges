@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+raw_data/
+temp/
+output/
+feedback/
